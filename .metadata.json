@@ -1,0 +1,10 @@
+[
+  {
+    "package": "StratSel",
+    "oncran": true
+  },
+  {
+    "package": "swissMrP",
+    "oncran": true
+  }
+]
