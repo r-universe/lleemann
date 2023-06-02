@@ -8,8 +8,3 @@
 	url = https://github.com/lleemann/stratsel
 	shallow = true
 	registered = true
-[submodule "swissMrP"]
-	path = swissMrP
-	url = https://github.com/lleemann/swissmrp
-	shallow = true
-	registered = true
